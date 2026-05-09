@@ -16,19 +16,6 @@
 
 ---
 
-<div class="glass center">
-  <div align="center">
-    <h2>Github Stats</h2>
-    <!-- Card de Status Geral -->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavoAmaral-l&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
-    <br><br>
-    <!-- Card de Linguagens mais usadas -->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoAmaral-l&layout=compact&langs_count=7&theme=transparent" />
-  </div>
-</div>
-
----
-
 <div class="glass center" align="center">
   <div class="title"><h2>Contatos:</h2></div>
   <a href="https://www.linkedin.com/in/gustavo-amaral-6729a8316/">
