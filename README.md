@@ -16,7 +16,7 @@
 
 ---
 
-<div class="glass center" align="center">
+<div class="glass center">
   <div class="title"><h2>Contatos:</h2></div>
   <a href="https://www.linkedin.com/in/gustavo-amaral-6729a8316/">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
