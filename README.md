@@ -12,16 +12,15 @@ Olá! Sou estagiário em Dados & Automação e estudante de Sistemas de Informa�
 
 ---
 
-<div class="glass">
-
-<div class="title"><h2>Tecnologia e ferramentas que uso:</h2></div>
-<br>
-<div class="badges">
-
-<img src="https://skillicons.dev/icons?i=c,cs,py,git,postgres,mysql,github"/>
-
-</div>
-
+<div class="glass center">
+  <div align="center">
+    <h2>Github Stats</h2>
+    <!-- Card de Status Geral -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavoAmaral-l&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
+    <br><br>
+    <!-- Card de Linguagens mais usadas -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoAmaral-l&layout=compact&langs_count=7&theme=transparent" />
+  </div>
 </div>
 
 ---
