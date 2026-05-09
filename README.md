@@ -7,7 +7,7 @@
 
 <div class="title""><h2>Sobre mim:</h2></div>
 <br>
-Olá! Sou estudante de Sistemas de Informação na EACH-USP, onde desenvolvo conhecimento técnico e participo de atividades estudantis como o Diretório Acadêmico de Sistemas de Informação (DASI-USP) onde carrego o cargo de coordenador de projetos. Além disso, atuo como estagiário em Dados e Automação.
+Olá! Sou estagiário em Dados & Automação e estudante de Sistemas de Informação na EACH-USP, onde desenvolvo conhecimento técnico e participo de atividades estudantis como o Diretório Acadêmico de Sistemas de Informação (DASI-USP). 
 </div>
 
 ---
@@ -45,11 +45,11 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoAmara
 <div class="title"><h2>Contatos:</h2></div>
 
 <a href="https://www.linkedin.com/in/gustavo-amaral-6729a8316/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="mailto:gustavodama42@email.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </div>
