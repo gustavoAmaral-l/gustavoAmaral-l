@@ -1,7 +1,7 @@
 <div class="glass" style="background: rgba(255,255,255,0.05); border-radius: 16px; padding: 25px; margin: 20px 0; backdrop-filter: blur(12px); border: 1px solid rgba(255,255,255,0.1);">
   <div class="title"><h2>Sobre mim:</h2></div>
   <br>
-  Olá! Sou estagiário em Dados & Automação e estudante de Sistemas de Informação na EACH-USP, onde desenvolvo conhecimento técnico e participo de atividades estudantis como o Diretório Acadêmico de Sistemas de Informação (DASI-USP). 
+  Olá! Sou estagiário em engenharia de software e estudante de Sistemas de Informação na EACH-USP, onde desenvolvo conhecimento técnico e participo de atividades estudantis como o Diretório Acadêmico de Sistemas de Informação (DASI-USP). 
 </div>
 
 ---
